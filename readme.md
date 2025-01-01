@@ -1,7 +1,7 @@
 # TechJobsAnalyzer: Web Scraping from NoFluffJobs, Data Analysis, and Machine Learning for Job Market Insights
 
 ## Description
-This project is focused on web scraping, data processing, analysis, and machine learning. It extracts job postings from the NoFluffJobs platform, processes and stores the data in a structured format, and performs data analysis and predictive modeling to uncover insights about job trends, salaries, and technologies.
+This project is a university assignment focused on web scraping, data processing, analysis, and machine learning. It extracts job postings from the NoFluffJobs platform, processes and stores the data in a structured format, and performs data analysis and predictive modeling to uncover insights about job trends, salaries, and technologies.
 
 ## Project Structure
 ```
@@ -63,7 +63,10 @@ TechJobsAnalyzer
   - Hyperparameter tuning using `GridSearchCV` and cross-validation.
   - Evaluating model performance with metrics such as MAE, MSE, and R².
   - Visualizing actual vs predicted salaries.
-
+## To-Do List
+1. Fix issue with the first 20 values in the CSV file.
+2. Add automatic cookie confirmation via Selenium.
+   
 ## Prerequisites
 - Python 3.12.7
 - Google Chrome and ChromeDriver (for Selenium)
