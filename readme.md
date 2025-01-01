@@ -65,7 +65,7 @@ TechJobsAnalyzer
   - Visualizing actual vs predicted salaries.
 
 ## Prerequisites
-- Python 3.7+
+- Python 3.12.7
 - Google Chrome and ChromeDriver (for Selenium)
 
 ## Installation
