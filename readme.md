@@ -5,7 +5,7 @@ This project is focused on web scraping, data processing, analysis, and machine 
 
 ## Project Structure
 ```
-CDV_PY_PROJECT
+TechJobsAnalyzer
 |
 ├── Analysis and ML
 │   ├── DecisionTreeRegressor.ipynb
@@ -75,7 +75,7 @@ CDV_PY_PROJECT
    ```
 2. Navigate to the project directory:
    ```bash
-   cd CDV_PY_PROJECT
+   cd TechJobsAnalyzer
    ```
 3. Install the required Python packages:
    ```bash
