@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+scikit-learn==1.6.0
+matplotlib==3.10.0
+numpy==2.2.0
+pandas==2.2.3
+seaborn==0.13.2
+selenium==4.27.1
+requests==2.32.3
+jupyter==1.1.1
+jupyter-client==8.6.0
+jupyter-core==5.7.1
